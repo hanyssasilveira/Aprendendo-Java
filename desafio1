@@ -1,10 +1,3 @@
-//  Desafio 1 – Você se tornará um programador contratado?
-//  Crie um programa que leia se o aluno estudou bancos de dados, Spring, APIs REST e
-//  se fez projetos usando arquitetura de Microsserviços.
-//  Se estudou tudo (true para todas as perguntas), mostrar mensagem dizendo que
-//  consegue vaga.
-//  Caso contrário, mostrar mensagem dizendo que ainda não consegue.
-
 import java.util.Scanner;
 
 public class Desafio1 {
